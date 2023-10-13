@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Herteckno
 - 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Herteckno/Herteckno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
